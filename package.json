@@ -1,0 +1,24 @@
+{
+  "name": "parse-vprok",
+  "version": "0.0.1",
+  "description": "parse from vprok //technical task",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLERCN/parse-vprok.git"
+  },
+  "author": "t.me/plercn && t.me/politeraccoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLERCN/parse-vprok/issues"
+  },
+  "homepage": "https://github.com/PLERCN/parse-vprok#readme",
+  "dependencies": {
+    "inquirer": "^9.2.14",
+    "puppeteer": "^22.0.0"
+  }
+}
